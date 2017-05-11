@@ -1,0 +1,22 @@
+{
+  "name": "string-splosion-class",
+  "version": "1.0.0",
+  "description": "A class that returns a 'sploded' string output",
+  "main": "splosion.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Polymathwole/string-splosion-class.git"
+  },
+  "author": "Oluwaremi Oluwole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Polymathwole/string-splosion-class/issues"
+  },
+  "homepage": "https://github.com/Polymathwole/string-splosion-class#readme",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
